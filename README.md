@@ -1,6 +1,6 @@
 **NOTE**: Click the **Use this template** button in order to create your own repository based on this template.
-#Added below line by other user for tacking IAC deployment stages
 ---
+#Added below line by other user for tacking IAC deployment stages
 # So you want to take Spacelift for a spin?
 
 This repository is designed just for this purpose. So, fork it to a GitHub account you manage (either your private account or an organization you have admin rights on) and let's get started.
